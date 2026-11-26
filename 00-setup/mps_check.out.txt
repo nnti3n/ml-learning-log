@@ -1,0 +1,17 @@
+python  3.12.16
+torch   2.15.0
+mps built:     True
+mps available: True
+step  20  loss 2.098992
+step  40  loss 0.478212
+step  60  loss 0.110573
+step  80  loss 0.025951
+step 100  loss 0.006220
+step 120  loss 0.001567
+step 140  loss 0.000459
+step 160  loss 0.000192
+step 180  loss 0.000128
+step 200  loss 0.000112
+weight device: mps:0
+bias device:   mps:0
+max |w - w_true|: 0.0016   bias: 0.5000 (true 0.5)
